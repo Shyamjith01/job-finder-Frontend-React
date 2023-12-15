@@ -1,0 +1,15 @@
+@media screen and (max-width:600px){
+    .jobss{
+        flex-direction: column;
+        .right{
+            button{
+                width: 100%;
+                margin-top: 8px;
+            } 
+        }
+    }
+}
+
+.status:first-letter{
+    text-transform: capitalize;
+}

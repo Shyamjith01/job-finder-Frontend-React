@@ -1,0 +1,16 @@
+.filter{
+    width: 15rem; 
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    text-align: start;
+    padding: 1.3rem;
+    font-family: "Noto Sans" !important;
+    font-weight: bold;
+    border-radius: 9px; 
+    background-color: white;
+}
+
+@media screen and (max-width:600px){
+    .filter{
+        display: none;
+    }
+}

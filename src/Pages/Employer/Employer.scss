@@ -1,0 +1,54 @@
+.wrapper-class {
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+.editor-class {
+    background-color: lightgray;
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+.toolbar-class {
+    border: 1px solid #ccc;
+}
+
+.DraftEditor-root{
+    border: 1px solid #DADADA;
+    min-height: 10rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+
+button {
+    font-family: "Noto Sans" !important;
+}
+input{
+    font-family: "Noto Sans" !important;
+}
+span{
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", Roboto, Noto, sans-serif !important;
+}
+li{
+    font-family: "Noto Sans" !important;
+}
+
+label{
+    font-family: "Noto Sans" !important;
+    font-weight: 400 !important;
+}
+
+.MuiSelect-select{
+    font-weight: 400 !important;    
+    font-family: "Noto Sans" !important;
+    text-align: start;
+}
+
+.submit-button{
+    button {
+        width: 50%;
+        margin-bottom: 3rem;
+    }
+}
